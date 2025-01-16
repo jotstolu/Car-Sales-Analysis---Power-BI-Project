@@ -5,6 +5,9 @@ This project consists of two interactive dashboards:
 
 ## Overview Dashboard
 The overview Dashboard offers a high-level Visualization of  critical KPIs related to car sales using interactive charts and tables. This Provide real-time insights to identify trends, growth opportunities, and areas for improvement, enabling data-driven decision-making.   
+
+![Screenshot 2025-01-16 032922](https://github.com/user-attachments/assets/b44297cf-3d0f-4602-8041-ecaf3e1c6570)
+
 ### 1. **Sales Overview**  
 The dashboard includes key metrics to track sales performance over different time frames:  
 - **Year-to-Date (YTD) Total Sales**  
@@ -28,5 +31,7 @@ Monitor car sales volume to identify demand and growth opportunities:
 
 ## Details Dashboard
 The Detail Dashboard focuses on granular data analysis, offering detailed insights into customer name, sales amount, dealer name etc.
+
+![Screenshot 2025-01-16 032946](https://github.com/user-attachments/assets/4bc197ba-c035-4926-8921-84454397ac55)
 
 
