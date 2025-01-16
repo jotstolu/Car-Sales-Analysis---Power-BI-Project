@@ -1,4 +1,3 @@
-# Car-Sales-Analysis---Power-BI-Project
 The goal of this project is to create a dynamic and interactive Car Sales Dashboard using Power BI. This dashboard will visualize key performance indicators (KPIs) related to car sales, providing insights into sales performance trends and enabling data-driven decision-making. 
 This project consists of two interactive dashboards:
 - Overview Dashboard
